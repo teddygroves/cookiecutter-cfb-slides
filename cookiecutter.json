@@ -1,8 +1,8 @@
 {
-    "project-name": "project name",
-    "presentation-title": "{{ cookiecutter.project-name }}",
-    "repo_name": "{{ cookiecutter.project-name.lower().replace(' ', '-') }}",
-    "author-name": "Your name (or your organization/company/team)",
+    "project_name": "project name",
+    "presentation_title": "{{ cookiecutter.project_name }}",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "Your name (or your organization/company/team)",
     "description": "A short description of the project.",
-    "presentation-color": "blue"
+    "presentation_color": "blue"
 }
