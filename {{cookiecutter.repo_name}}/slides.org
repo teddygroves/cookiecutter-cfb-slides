@@ -5,7 +5,7 @@
 #+LaTeX_CLASS_OPTIONS: [aspectratio=169]
 #+LATEX_HEADER: \input{preamble.tex}
 #+LATEX_HEADER: \setdepartment{DTU Biosustain}
-#+LATEX_HEADER: \setcolor{{{cookiecutter.presentation_color}}}
+#+LATEX_HEADER: \setcolor{blue}
 #+LATEX_HEADER: \makeatletter \beamer@ignorenonframefalse \makeatother
 #+BIBLIOGRAPHY: ../bibliography.bib
 #+OPTIONS: H:2
